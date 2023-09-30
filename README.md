@@ -2,7 +2,7 @@
 <h3> A Third-year CS student @ YorkU interested in software engineering, web development and database management </h3>
 
 - 🔭 I’m currently working on **Full-Stack Web Development (React JS & Django Python)**
-- 👨‍💻 My Portfolio: example@example.com
+- 👨‍💻 My Portfolio: www.fredh.me
 - 📫 How to reach me: **fredhong.to@gmail.com**
 - 📄 Know about my experiences: 
 - ⚡ Hobbies: DJing, Weightlifting, Raves/Concerts
