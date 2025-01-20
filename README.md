@@ -1,5 +1,5 @@
 <h1> Hi there 👋. My name is Fred </h1>
-<h3> A Third-year CS student @ YorkU interested in software engineering, web development and database management </h3>
+<h3> A 5th CS student @ YorkU interested in software engineering, web development and database management </h3>
 
 - 🔭 I’m currently working on **Full-Stack Web Development (React JS & Django Python)**
 - 👨‍💻 My Portfolio: www.fredh.me
