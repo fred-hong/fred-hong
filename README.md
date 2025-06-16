@@ -5,7 +5,7 @@
 - 👨‍💻 My Portfolio: www.fredh.me
 - 📫 How to reach me: **fredhong.to@gmail.com**
 - 📄 Know about my experiences: 
-- ⚡ Hobbies: DJing, Weightlifting, Raves/Concerts
+- ⚡ Hobbies: Volleyball, Running, Going to Concerts
 
 <h3 align="left">Connect with me!</h3>
 <p align="left">
